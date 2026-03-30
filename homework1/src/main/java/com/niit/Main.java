@@ -24,3 +24,4 @@ public class Main
         System.out.println("- City: " + student.getAddress().getCity());
     }
 }
+
